@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://amolsharma99.github.io
+title: Amol Sharma
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
